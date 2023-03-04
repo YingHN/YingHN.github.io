@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YingHN&#39;s Blog</title>
+  <icon>https://yinghn.github.io/icon.png</icon>
+  <subtitle>敢问路在何方? 路在脚下.</subtitle>
+  <link href="https://yinghn.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yinghn.github.io/"/>
+  <updated>2023-03-04T14:27:12.228Z</updated>
+  <id>https://yinghn.github.io/</id>
+  
+  <author>
+    <name>YingHN-应皓楠</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AcWing-93-B</title>
+    <link href="https://yinghn.github.io/post/AcWing-93-B.html"/>
+    <id>https://yinghn.github.io/post/AcWing-93-B.html</id>
+    <published>2023-03-04T14:23:04.000Z</published>
+    <updated>2023-03-04T14:27:12.228Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;cdfs剪枝&quot;&gt;C++DFS+剪枝&lt;/h1&gt;
+&lt;p&gt;简单&lt;code&gt;DFS+剪枝&lt;/code&gt;, (目前来说)剪枝逃不开以下几种情况:&lt;br&gt;
+1. 无效性剪枝: 对 0 or 1 不操作.&lt;br&gt;
+2. 最优性剪枝: 当深度已经超过之前的最优答案,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>二叉堆模板</title>
+    <link href="https://yinghn.github.io/post/%E4%BA%8C%E5%8F%89%E5%A0%86%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/%E4%BA%8C%E5%8F%89%E5%A0%86%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2023-02-11T11:51:32.000Z</published>
+    <updated>2023-02-11T11:52:00.327Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;二叉堆模板&quot;&gt;二叉堆模板&lt;/h1&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code class=&quot;language-c++&quot;&gt;#include</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>OI刷题之道</title>
+    <link href="https://yinghn.github.io/post/OI%E5%88%B7%E9%A2%98%E4%B9%8B%E9%81%93.html"/>
+    <id>https://yinghn.github.io/post/OI%E5%88%B7%E9%A2%98%E4%B9%8B%E9%81%93.html</id>
+    <published>2023-01-31T12:23:57.000Z</published>
+    <updated>2023-01-31T12:30:38.962Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;切题四件套&quot;&gt;切题四件套&lt;/h1&gt;
+&lt;p&gt;我个人认为也可以叫&lt;code&gt;解题四大法则&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;理解题目(Clarification)
+&lt;ul&gt;
+&lt;li&gt;在 LeetCode 看题后, 先思考,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手机编程解放双手-AutoJS教程</title>
+    <link href="https://yinghn.github.io/post/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B-AutoJS%E6%95%99%E7%A8%8B.html"/>
+    <id>https://yinghn.github.io/post/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B-AutoJS%E6%95%99%E7%A8%8B.html</id>
+    <published>2023-01-19T00:43:24.000Z</published>
+    <updated>2023-01-19T11:26:56.103Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;手机编程解放双手-autojs教程&quot;&gt;手机编程解放双手-AutoJS教程&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;Auto.js&lt;/code&gt;是一个&lt;code&gt;JavaScript&lt;/code&gt;的扩展,
+能实现无root操作手机.&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cpp转JS急救</title>
+    <link href="https://yinghn.github.io/post/cpp%E8%BD%ACJS%E6%80%A5%E6%95%91.html"/>
+    <id>https://yinghn.github.io/post/cpp%E8%BD%ACJS%E6%80%A5%E6%95%91.html</id>
+    <published>2023-01-18T10:19:02.000Z</published>
+    <updated>2023-01-19T11:59:04.970Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;cpp转js急救&quot;&gt;cpp转JS急救&lt;/h1&gt;
+&lt;p&gt;本文仅讲述&lt;strong&gt;语法&lt;/strong&gt;区别, 不探讨底层, 且作者才疏学浅,
+难免纰漏.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手把手教你手抄报-以《钢铁是怎样炼成的》为例</title>
+    <link href="https://yinghn.github.io/post/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%89%8B%E6%8A%84%E6%8A%A5-%E4%BB%A5%E3%80%8A%E9%92%A2%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%E3%80%8B%E4%B8%BA%E4%BE%8B.html"/>
+    <id>https://yinghn.github.io/post/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%89%8B%E6%8A%84%E6%8A%A5-%E4%BB%A5%E3%80%8A%E9%92%A2%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%E3%80%8B%E4%B8%BA%E4%BE%8B.html</id>
+    <published>2023-01-16T12:21:36.000Z</published>
+    <updated>2023-01-17T07:41:41.610Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;手把手教你手抄报-以钢铁是怎样炼成的为例&quot;&gt;手把手教你手抄报-以《钢铁是怎样炼成的》为例&lt;/h1&gt;
+&lt;p&gt;简易手抄报总共&lt;strong&gt;五步完成&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>回忆录</title>
+    <link href="https://yinghn.github.io/post/%E5%9B%9E%E5%BF%86%E5%BD%95.html"/>
+    <id>https://yinghn.github.io/post/%E5%9B%9E%E5%BF%86%E5%BD%95.html</id>
+    <published>2023-01-13T12:45:04.000Z</published>
+    <updated>2023-01-14T06:40:50.272Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;yinghn的回忆录&quot;&gt;YingHN的回忆录&lt;/h1&gt;
+&lt;h2 id=&quot;安全声明&quot;&gt;安全声明&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;本文所有人物皆来源于生活,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Literature" scheme="https://yinghn.github.io/tags/Literature/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你真的会学英语吗?把英语当文学吧!</title>
+    <link href="https://yinghn.github.io/post/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%90%97-%E6%8A%8A%E8%8B%B1%E8%AF%AD%E5%BD%93%E6%96%87%E5%AD%A6%E5%90%A7.html"/>
+    <id>https://yinghn.github.io/post/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%90%97-%E6%8A%8A%E8%8B%B1%E8%AF%AD%E5%BD%93%E6%96%87%E5%AD%A6%E5%90%A7.html</id>
+    <published>2023-01-05T12:28:35.000Z</published>
+    <updated>2023-01-05T13:37:52.267Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;你真的会学英语吗把英语当文学吧&quot;&gt;你真的会学英语吗?把英语当文学吧!&lt;/h1&gt;
+&lt;p&gt;警告: 以下字段仅代表个人观点. 因本人才疏学浅, 读书少而蹉跎多,
+有过激之处请指正, 不喜勿喷,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>投稿</title>
+    <link href="https://yinghn.github.io/post/%E6%8A%95%E7%A8%BF.html"/>
+    <id>https://yinghn.github.io/post/%E6%8A%95%E7%A8%BF.html</id>
+    <published>2023-01-01T08:19:24.000Z</published>
+    <updated>2023-01-28T08:28:52.519Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;投稿&quot;&gt;投稿&lt;/h1&gt;
+&lt;p&gt;可以直接在评论区发文, 也可以发文到我微信.&lt;/p&gt;
+&lt;p&gt;投稿规则如下:&lt;br&gt;
+1. 可以在投稿学习上的疑惑, 生活上的烦恼, 读书的心得体会等.
+但请注意以下几点:&lt;br&gt;
+2. 请尽量讨论与学习有关的内容,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>耻辱柱</title>
+    <link href="https://yinghn.github.io/post/%E8%80%BB%E8%BE%B1%E6%9F%B1.html"/>
+    <id>https://yinghn.github.io/post/%E8%80%BB%E8%BE%B1%E6%9F%B1.html</id>
+    <published>2023-01-01T07:11:36.000Z</published>
+    <updated>2023-01-28T08:19:02.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;耻辱柱&quot;&gt;耻辱柱&lt;/h1&gt;
+&lt;p&gt;所有违规人员将被列在这里:&lt;/p&gt;
+&lt;p&gt;也可以在该评论区下举报, 将在5个工作日内受理.&lt;/p&gt;
+&lt;p&gt;格式: GitHub账号(真实姓名):</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>三角恒等变换</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2.html</id>
+    <published>2022-12-29T03:38:09.000Z</published>
+    <updated>2022-12-30T05:31:33.228Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;三角恒等变换&quot;&gt;三角恒等变换&lt;/h1&gt;
+&lt;h2 id=&quot;公式及证明&quot;&gt;公式及证明&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;一张图, 搞定三角恒等变换!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="TrigonometricFunction" scheme="https://yinghn.github.io/tags/TrigonometricFunction/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚数</title>
+    <link href="https://yinghn.github.io/post/%E8%99%9A%E6%95%B0.html"/>
+    <id>https://yinghn.github.io/post/%E8%99%9A%E6%95%B0.html</id>
+    <published>2022-12-28T02:17:55.000Z</published>
+    <updated>2022-12-29T13:14:01.578Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;虚数&quot;&gt;虚数&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文所有证明若有不严谨之处, 烦请读者勘误.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;定义&quot;&gt;定义&lt;/h2&gt;
+&lt;p&gt;虚数(ImaginaryNumber)(或&quot;复数&quot;,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="ImaginaryNumber" scheme="https://yinghn.github.io/tags/ImaginaryNumber/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Dijkstra模板</title>
+    <link href="https://yinghn.github.io/post/Dijkstra%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/Dijkstra%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-10-26T12:07:48.000Z</published>
+    <updated>2022-10-27T00:22:21.679Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;dijkstra模板&quot;&gt;Dijkstra模板&lt;/h1&gt;
+&lt;h2 id=&quot;代码注释&quot;&gt;代码+注释&lt;/h2&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="Gragh" scheme="https://yinghn.github.io/tags/Gragh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>链式前向星模板</title>
+    <link href="https://yinghn.github.io/post/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/%E9%93%BE%E5%BC%8F%E5%89%8D%E5%90%91%E6%98%9F%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-10-25T07:08:55.000Z</published>
+    <updated>2022-10-26T12:06:05.897Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;链式前向星模板&quot;&gt;链式前向星模板&lt;/h1&gt;
+&lt;p&gt;代码如下（有权值）&lt;strong&gt;使用时节点编号必须从 &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container class=&quot;MathJax&quot; jax=&quot;SVG&quot;&gt;&lt;svg</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="Gragh" scheme="https://yinghn.github.io/tags/Gragh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>归并排序</title>
+    <link href="https://yinghn.github.io/post/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.html"/>
+    <id>https://yinghn.github.io/post/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.html</id>
+    <published>2022-08-04T01:29:01.000Z</published>
+    <updated>2022-08-05T03:48:27.070Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;归并排序&quot;&gt;归并排序&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;思想: 对左右区间进行排序,再合并区间,如图&lt;br&gt;
+&lt;img src=&quot;https://s1.328888.xyz/2022/08/04/jbZis.gif&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（8）-- 线性相关性、生成空间和矩阵基本子空间</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%888%EF%BC%89--%20%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7%E3%80%81%E7%94%9F%E6%88%90%E7%A9%BA%E9%97%B4%E5%92%8C%E7%9F%A9%E9%98%B5%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%888%EF%BC%89--%20%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7%E3%80%81%E7%94%9F%E6%88%90%E7%A9%BA%E9%97%B4%E5%92%8C%E7%9F%A9%E9%98%B5%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.html</id>
+    <published>2022-07-15T09:29:37.000Z</published>
+    <updated>2022-07-15T09:33:15.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;线性相关性&quot;&gt;线性相关性&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;条件： &lt;strong&gt;没有线性组合能得到0（系数不为0）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;判断：将向量组 &lt;strong&gt;当作列向量，放入矩阵中&lt;/strong&gt; ：
+&lt;ol</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（7）-- Ax=b和秩</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%887%EF%BC%89--%20Ax=b%E5%92%8C%E7%A7%A9.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%887%EF%BC%89--%20Ax=b%E5%92%8C%E7%A7%A9.html</id>
+    <published>2022-07-14T06:37:57.000Z</published>
+    <updated>2022-07-14T06:40:46.019Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数7---axb和秩&quot;&gt;线性代数（7）-- Ax=b和秩&lt;/h1&gt;
+&lt;h2 id=&quot;ax--b&quot;&gt;Ax = b&lt;/h2&gt;
+&lt;h3 id=&quot;求解集&quot;&gt;求解集&lt;/h3&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;p&gt;求</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（6）-- 一些定理</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%886%EF%BC%89--%20%E4%B8%80%E4%BA%9B%E5%AE%9A%E7%90%86.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%886%EF%BC%89--%20%E4%B8%80%E4%BA%9B%E5%AE%9A%E7%90%86.html</id>
+    <published>2022-07-14T06:26:21.000Z</published>
+    <updated>2022-07-14T06:40:02.808Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数6---一些定理&quot;&gt;线性代数（6）-- 一些定理&lt;/h1&gt;
+&lt;h2 id=&quot;置换矩阵&quot;&gt;置换矩阵&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;定义： &lt;strong&gt;行交换的单位矩阵&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;作用：左乘矩阵时，</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>留言Note</title>
+    <link href="https://yinghn.github.io/post/%E7%95%99%E8%A8%80Note.html"/>
+    <id>https://yinghn.github.io/post/%E7%95%99%E8%A8%80Note.html</id>
+    <published>2022-07-12T07:14:28.000Z</published>
+    <updated>2022-07-31T09:17:58.110Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    
+    <category term="others" scheme="https://yinghn.github.io/tags/others/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（5）-- 方程问题</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%885%EF%BC%89--%20%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%885%EF%BC%89--%20%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98.html</id>
+    <published>2022-06-30T12:32:19.000Z</published>
+    <updated>2022-07-08T13:28:27.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数5---方程问题&quot;&gt;线性代数（5）-- 方程问题&lt;/h1&gt;
+&lt;h2 id=&quot;方程--线性代数&quot;&gt;方程 =&amp;gt; 线性代数&lt;/h2&gt;
+&lt;p&gt;基本思想：如下图， &lt;span class=&quot;math inline&quot;&gt;&lt;mjx-container</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+    <category term="math" scheme="https://yinghn.github.io/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（9）-- 明清时期（下）</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%889%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8B%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%889%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8B%EF%BC%89.html</id>
+    <published>2022-06-15T09:58:02.000Z</published>
+    <updated>2022-06-17T12:58:19.504Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史9---明清时期下&quot;&gt;中国历史（9）-- 明清时期（下）&lt;/h1&gt;
+&lt;h2 id=&quot;明的科技建筑文学&quot;&gt;明的科技、建筑、文学&lt;/h2&gt;
+&lt;h3 id=&quot;科技&quot;&gt;科技&lt;/h3&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七下道法资料</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%83%E4%B8%8B%E9%81%93%E6%B3%95%E8%B5%84%E6%96%99.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%83%E4%B8%8B%E9%81%93%E6%B3%95%E8%B5%84%E6%96%99.html</id>
+    <published>2022-06-12T13:54:05.000Z</published>
+    <updated>2022-06-12T13:58:11.562Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;第一单元青春时光&lt;/p&gt;
+&lt;p&gt;第一课</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Tao&amp;Dharma" scheme="https://yinghn.github.io/tags/Tao-Dharma/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（8）-- 明清时期（中）</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%888%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%AD%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%888%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%AD%EF%BC%89.html</id>
+    <published>2022-06-07T12:51:20.000Z</published>
+    <updated>2022-06-13T14:35:08.478Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史8---明清时期中&quot;&gt;中国历史（8）-- 明清时期（中）&lt;/h1&gt;
+&lt;h2 id=&quot;清&quot;&gt;清&lt;/h2&gt;
+&lt;h3 id=&quot;建立&quot;&gt;建立&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;时间： &lt;strong&gt;AD1636&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;建立者：</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（7）-- 明清时期（上）</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%887%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8A%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%887%EF%BC%89--%20%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8A%EF%BC%89.html</id>
+    <published>2022-06-03T12:21:15.000Z</published>
+    <updated>2022-06-15T09:47:41.673Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史7---明清时期上&quot;&gt;中国历史（7）-- 明清时期（上）&lt;/h1&gt;
+&lt;h2 id=&quot;明&quot;&gt;明&lt;/h2&gt;
+&lt;h3 id=&quot;建立即统一&quot;&gt;建立即统一&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;时间：</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MarkDown公式书写</title>
+    <link href="https://yinghn.github.io/post/MarkDown%E5%85%AC%E5%BC%8F%E4%B9%A6%E5%86%99.html"/>
+    <id>https://yinghn.github.io/post/MarkDown%E5%85%AC%E5%BC%8F%E4%B9%A6%E5%86%99.html</id>
+    <published>2022-05-23T13:56:54.000Z</published>
+    <updated>2022-05-23T13:58:11.222Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MarkDown" scheme="https://yinghn.github.io/tags/MarkDown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（4）-- 行列式</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%884%EF%BC%89--%20%E8%A1%8C%E5%88%97%E5%BC%8F.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%884%EF%BC%89--%20%E8%A1%8C%E5%88%97%E5%BC%8F.html</id>
+    <published>2022-05-15T12:47:24.000Z</published>
+    <updated>2022-06-28T12:30:01.442Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数4---行列式&quot;&gt;线性代数（4）-- 行列式&lt;/h1&gt;
+&lt;h2 id=&quot;含义&quot;&gt;含义&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;线性变换&lt;/code&gt; 后坐标系的 &lt;strong&gt;压缩率&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而 &lt;code&gt;压缩率&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>动态几何与代数的转换</title>
+    <link href="https://yinghn.github.io/post/%E5%8A%A8%E6%80%81%E5%87%A0%E4%BD%95%E4%B8%8E%E4%BB%A3%E6%95%B0%E7%9A%84%E8%BD%AC%E6%8D%A2.html"/>
+    <id>https://yinghn.github.io/post/%E5%8A%A8%E6%80%81%E5%87%A0%E4%BD%95%E4%B8%8E%E4%BB%A3%E6%95%B0%E7%9A%84%E8%BD%AC%E6%8D%A2.html</id>
+    <published>2022-05-12T13:20:47.000Z</published>
+    <updated>2023-01-14T02:31:02.799Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;动态几何与代数的转换&quot;&gt;动态几何与代数的转换&lt;/h1&gt;
+&lt;h3 id=&quot;变化的角度&quot;&gt;变化的角度&lt;/h3&gt;
+&lt;p&gt;由于角可以表示为： &lt;code&gt;θ = φ + 2kπ&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;其中 &lt;code&gt;φ&lt;/code&gt; 是</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（6）-- 宋元时期（下）</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%886%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8B%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%886%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8B%EF%BC%89.html</id>
+    <published>2022-05-10T12:33:59.000Z</published>
+    <updated>2022-05-10T13:27:40.418Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史6---宋元时期下&quot;&gt;中国历史（6）-- 宋元时期（下）&lt;/h1&gt;
+&lt;h2
+id=&quot;宋元时期的都市文化科技和中外交流&quot;&gt;宋元时期的都市、文化、科技和中外交流&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（5）-- 宋元时期（中）</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%885%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%AD%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%885%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%AD%EF%BC%89.html</id>
+    <published>2022-05-07T13:42:36.000Z</published>
+    <updated>2022-06-03T12:25:26.070Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史5---宋元时期中&quot;&gt;中国历史（5）-- 宋元时期（中）&lt;/h1&gt;
+&lt;h2 id=&quot;辽西夏金&quot;&gt;辽、西夏、金&lt;/h2&gt;
+&lt;h3 id=&quot;发展&quot;&gt;发展&lt;/h3&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;向 &lt;strong&gt;中原王朝&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（4）-- 宋元时期(上)</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%884%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8A%EF%BC%89.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%884%EF%BC%89--%20%E5%AE%8B%E5%85%83%E6%97%B6%E6%9C%9F%EF%BC%88%E4%B8%8A%EF%BC%89.html</id>
+    <published>2022-05-07T12:35:10.000Z</published>
+    <updated>2022-05-07T12:37:46.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史4---宋元时期上&quot;&gt;中国历史（4）-- 宋元时期(上)&lt;/h1&gt;
+&lt;h2 id=&quot;时代特征政权并立与民族交融&quot;&gt;时代特征：政权并立与民族交融&lt;/h2&gt;
+&lt;h2 id=&quot;主要政权&quot;&gt;主要政权：&lt;/h2&gt;
+&lt;table</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（3）-- 五代十国</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%883%EF%BC%89--%20%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%883%EF%BC%89--%20%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD.html</id>
+    <published>2022-05-06T13:11:10.000Z</published>
+    <updated>2022-05-07T12:37:13.712Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史3---五代十国&quot;&gt;中国历史（3）-- 五代十国&lt;/h1&gt;
+&lt;h3 id=&quot;实质&quot;&gt;实质&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;唐末以来&lt;/code&gt; &lt;strong&gt;藩镇割据&lt;/strong&gt; 的延续&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（2）-- 盛唐气象</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%882%EF%BC%89--%20%E7%9B%9B%E5%94%90%E6%B0%94%E8%B1%A1.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%882%EF%BC%89--%20%E7%9B%9B%E5%94%90%E6%B0%94%E8%B1%A1.html</id>
+    <published>2022-05-03T12:27:59.000Z</published>
+    <updated>2022-05-04T08:59:51.404Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史2---盛唐气象&quot;&gt;中国历史（2）-- 盛唐气象&lt;/h1&gt;
+&lt;h2 id=&quot;社会风气-开放与包容&quot;&gt;社会风气: 开放与包容&lt;/h2&gt;
+&lt;h3 id=&quot;原因&quot;&gt;原因&lt;/h3&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;(政治上)国家强盛统一, 社会安定(</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史（1）-- 隋唐时期</title>
+    <link href="https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%881%EF%BC%89--%20%E9%9A%8B%E5%94%90%E6%97%B6%E6%9C%9F.html"/>
+    <id>https://yinghn.github.io/post/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%EF%BC%881%EF%BC%89--%20%E9%9A%8B%E5%94%90%E6%97%B6%E6%9C%9F.html</id>
+    <published>2022-05-03T08:48:56.000Z</published>
+    <updated>2022-05-03T08:52:22.020Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史1---隋唐时期&quot;&gt;中国历史（1）-- 隋唐时期&lt;/h1&gt;
+&lt;h2 id=&quot;时代特征繁荣与开放&quot;&gt;时代特征：繁荣与开放&lt;/h2&gt;
+&lt;h2 id=&quot;隋&quot;&gt;隋&lt;/h2&gt;
+&lt;h4 id=&quot;建立&quot;&gt;建立&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;时间：</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Chinese_History" scheme="https://yinghn.github.io/tags/Chinese-History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（3）-- 矩阵乘法</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%883%EF%BC%89--%20%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%883%EF%BC%89--%20%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95.html</id>
+    <published>2022-05-02T04:35:35.000Z</published>
+    <updated>2022-07-08T13:27:35.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;矩阵乘法和逆&quot;&gt;矩阵乘法和逆&lt;/h1&gt;
+&lt;h2 id=&quot;矩阵乘法&quot;&gt;矩阵乘法&lt;/h2&gt;
+&lt;h3 id=&quot;意义&quot;&gt;意义&lt;/h3&gt;
+&lt;p&gt;前面说过， &lt;code&gt;矩阵&lt;/code&gt; 是 &lt;code&gt;线性变换&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（2）-- 基、线性组合与线性变换</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%882%EF%BC%89--%20%E5%9F%BA%E3%80%81%E7%BA%BF%E6%80%A7%E7%BB%84%E5%90%88%E4%B8%8E%E7%BA%BF%E6%80%A7%E5%8F%98%E6%8D%A2.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%882%EF%BC%89--%20%E5%9F%BA%E3%80%81%E7%BA%BF%E6%80%A7%E7%BB%84%E5%90%88%E4%B8%8E%E7%BA%BF%E6%80%A7%E5%8F%98%E6%8D%A2.html</id>
+    <published>2022-05-01T10:09:01.000Z</published>
+    <updated>2022-07-08T13:27:26.945Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数2---基线性组合与线性变换&quot;&gt;线性代数（2）--
+基、线性组合与线性变换&lt;/h1&gt;
+&lt;h2 id=&quot;基&quot;&gt;基&lt;/h2&gt;
+&lt;h4 id=&quot;引入&quot;&gt;引入&lt;/h4&gt;
+&lt;p&gt;如果把 &lt;code&gt;向量坐标&lt;/code&gt; 看作</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性代数（1）-- 向量</title>
+    <link href="https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%881%EF%BC%89--%20%E5%90%91%E9%87%8F.html"/>
+    <id>https://yinghn.github.io/post/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%881%EF%BC%89--%20%E5%90%91%E9%87%8F.html</id>
+    <published>2022-05-01T10:06:54.000Z</published>
+    <updated>2022-07-08T13:27:19.345Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性代数1---向量&quot;&gt;线性代数（1）-- 向量&lt;/h1&gt;
+&lt;h2 id=&quot;向量的定义&quot;&gt;向量的定义：&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;一条带箭头的线段&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://yinghn.github.io/tags/Math/"/>
+    
+    <category term="Linear-Algebra" scheme="https://yinghn.github.io/tags/Linear-Algebra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信抢红包调查报告</title>
+    <link href="https://yinghn.github.io/post/%E5%BE%AE%E4%BF%A1%E6%8A%A2%E7%BA%A2%E5%8C%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.html"/>
+    <id>https://yinghn.github.io/post/%E5%BE%AE%E4%BF%A1%E6%8A%A2%E7%BA%A2%E5%8C%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.html</id>
+    <published>2022-04-29T11:26:44.000Z</published>
+    <updated>2022-04-30T03:48:40.768Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于微信抢红包的调查报告&quot;&gt;关于微信抢红包的调查报告&lt;/h1&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Entertainmen" scheme="https://yinghn.github.io/tags/Entertainmen/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初级树状数组模板</title>
+    <link href="https://yinghn.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-04-28T13:07:35.000Z</published>
+    <updated>2022-06-04T06:35:35.147Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;初级树状数组模板&quot;&gt;初级树状数组模板&lt;/h1&gt;
+&lt;h4 id=&quot;以区间和为例&quot;&gt;以区间和为例&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;代码如下~&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="Data-Struct" scheme="https://yinghn.github.io/tags/Data-Struct/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KMP模板</title>
+    <link href="https://yinghn.github.io/post/KMP%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/KMP%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-04-17T04:43:16.000Z</published>
+    <updated>2022-06-04T06:33:52.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;kmp模板&quot;&gt;KMP模板&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;代码如下~&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="String" scheme="https://yinghn.github.io/tags/String/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>完全背包模板</title>
+    <link href="https://yinghn.github.io/post/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-04-16T10:48:48.000Z</published>
+    <updated>2022-06-04T06:29:27.292Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;完全背包模板&quot;&gt;完全背包模板&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;代码如下&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="DP" scheme="https://yinghn.github.io/tags/DP/"/>
+    
+    <category term="Bag" scheme="https://yinghn.github.io/tags/Bag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01背包模板</title>
+    <link href="https://yinghn.github.io/post/01%E8%83%8C%E5%8C%85%E6%A8%A1%E6%9D%BF.html"/>
+    <id>https://yinghn.github.io/post/01%E8%83%8C%E5%8C%85%E6%A8%A1%E6%9D%BF.html</id>
+    <published>2022-04-16T10:00:52.000Z</published>
+    <updated>2022-06-04T06:38:42.973Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;01背包模板&quot;&gt;01背包模板&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;话不多说，上代码！！&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Code" scheme="https://yinghn.github.io/tags/Code/"/>
+    
+    <category term="DP" scheme="https://yinghn.github.io/tags/DP/"/>
+    
+    <category term="Bag" scheme="https://yinghn.github.io/tags/Bag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://yinghn.github.io/post/hello-world.html"/>
+    <id>https://yinghn.github.io/post/hello-world.html</id>
+    <published>2022-04-09T00:50:51.278Z</published>
+    <updated>2022-04-09T00:50:51.278Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very
+first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
